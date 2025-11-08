@@ -1,6 +1,6 @@
 # 🏅 Microsoft Certified: Azure Solutions Architect Expert
 
-<img src="./images/certificate.JPG" alt="Microsoft Certified: Azure Solutions Architect Expert" width="60%"/>
+<img src="./images/Certificate.JPG" alt="Microsoft Certified: Azure Solutions Architect Expert" width="60%"/>
 
 ---
 
