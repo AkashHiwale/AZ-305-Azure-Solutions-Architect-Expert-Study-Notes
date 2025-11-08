@@ -57,7 +57,7 @@ These notes were created to support study and labs. Some content may be simplifi
 ---
 
 ## Contributing
-- Create a branch: feature/<module>-<topic>
+- Create a branch: feature/{topic-name}
 - Add or update numbered markdown files in the appropriate module folder.
 - Keep file numbering for ordering and consistency.
 - Open a pull request with a short description referencing the related exam objective.
