@@ -101,3 +101,5 @@ New-AzRoleAssignment `
 
 - [Azure RBAC documentation](https://learn.microsoft.com/azure/role-based-access-control/overview)
 - [Built-in roles reference](https://learn.microsoft.com/azure/role-based-access-control/built-in-roles)
+- [RBAC best practices](https://learn.microsoft.com/azure/role-based-access-control/best-practices)
+- [RBAC troubleshooting guide](https://learn.microsoft.com/azure/role-based-access-control/troubleshooting)

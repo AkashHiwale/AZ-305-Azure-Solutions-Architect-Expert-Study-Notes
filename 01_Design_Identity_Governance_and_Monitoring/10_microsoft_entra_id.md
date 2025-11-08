@@ -91,4 +91,6 @@ It helps employees sign in and access resources like:
 
 - [Microsoft Entra ID documentation](https://learn.microsoft.com/entra/fundamentals/)
 - [Microsoft Entra features and licenses](https://learn.microsoft.com/entra/fundamentals/licensing-requirements)
+- [Microsoft Entra ID best practices](https://learn.microsoft.com/azure/active-directory/fundamentals/identity-secure-score)
+- [Microsoft Entra ID architecture](https://learn.microsoft.com/azure/architecture/guide/identity/identity-guide)
 
